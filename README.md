@@ -20,14 +20,6 @@ This project analyses retail sales data to uncover insights into customer behavi
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
-👉 Interactive Dashboard: *(add your Tableau Public link here)*
-
----
-
 ## 📂 Dataset
 - Retail sales dataset (Superstore-style data)
 - Includes orders, customers, products, sales, and profit information  
