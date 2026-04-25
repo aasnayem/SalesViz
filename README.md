@@ -22,7 +22,7 @@ This project analyses retail sales data to uncover insights into customer behavi
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 👉 Interactive Dashboard: *(add your Tableau Public link here)*
 
