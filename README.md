@@ -50,4 +50,12 @@ This project analyses retail sales data to uncover insights into customer behavi
 
 ---
 
-## 📁 Project Structure
+## 🚀 Key Learnings
+- Developed skills in transforming raw data into structured datasets  
+- Built interactive dashboards to communicate insights effectively  
+- Applied business-focused thinking to data analysis  
+
+---
+
+## 📬 Contact
+Feel free to connect with me on LinkedIn or reach out for opportunities in data analytics.
