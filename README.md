@@ -15,7 +15,6 @@ This project analyses retail sales data to uncover insights into customer behavi
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas) – Data cleaning and transformation  
-- SQL – Data analysis and querying  
 - Tableau – Data visualisation and dashboard creation  
 
 ---
@@ -36,7 +35,7 @@ This project analyses retail sales data to uncover insights into customer behavi
 
 ## ⚙️ Project Workflow
 1. Data Cleaning & Preparation (Python)  
-2. Data Analysis (SQL + Pandas)  
+2. Data Analysis (Pandas)  
 3. Feature Engineering (customer segmentation, time features)  
 4. Data Visualisation (Tableau Dashboard)  
 
